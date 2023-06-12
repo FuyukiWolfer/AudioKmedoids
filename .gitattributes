@@ -1,0 +1,7 @@
+# Standard Text Behavior
+
+* text=auto eol=lf
+
+# Binary Files
+
+*.wav binary
